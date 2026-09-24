@@ -1,0 +1,15 @@
+{
+  "originHash" : "9dd38f857db7479f1816015771b37a83ed7849590400ca2677a9c5f1b5014407",
+  "pins" : [
+    {
+      "identity" : "meta-wearables-dat-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/facebook/meta-wearables-dat-ios",
+      "state" : {
+        "revision" : "9b1b83d791dfebff7afd452e924a256819094b64",
+        "version" : "0.9.0"
+      }
+    }
+  ],
+  "version" : 3
+}
